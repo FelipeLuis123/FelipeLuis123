@@ -20,4 +20,4 @@
 <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></div><br/>
 
-Prático e Entusiasta de novas tecnologias e por mudar vidas através da programação.
+Prático e entusiasta de novas tecnologias e por mudar vidas através da programação.
